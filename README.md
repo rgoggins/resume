@@ -1,2 +1,2 @@
-# resume
-Likely my most up-to-date resume
+# CV/Resume
+This is my most up-to-date resume.
